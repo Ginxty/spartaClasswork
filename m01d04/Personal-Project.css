@@ -1,0 +1,33 @@
+.MyNav{
+	font-size: 20px;
+
+}
+
+.MyJumbo{
+	padding-top: 20px;
+}
+
+.MyContact{
+	padding-bottom: 100px;
+	padding-top: 20px;
+}
+
+.navbar-custom{
+	color: #cc3333
+	background-color: #cc3333;
+}
+
+.accent-colour{
+	color: #ff8a5b
+}
+
+a{
+	color: black;
+}
+
+.nav-pills .nav-link.active{
+	color: #FFFFFF;
+	background-color: #cc3333
+}
+
+
