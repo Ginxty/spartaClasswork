@@ -26,6 +26,7 @@ var selected = document.getElementsByTagName("li");
     var count = document.getElementById('count');
     count.innerHTML = listItems.length;
 
+HOMEWORK = append
 
 // getting elements and changing them in the dom
 //var wrapperDiv = document.getElementById("wrapper")
